@@ -1,4 +1,4 @@
-<?php include('../header.php'); ?>
+<?php include('header.php'); ?>
     <h1>Mathematics at Newcastle University</h1>
     <img src="/images/drewbaxter.jpg" alt="Drew at Graduation">
     <p>
@@ -12,4 +12,4 @@
     <p>
         In my third year, I specialised in applied mathematics. I also studied a module called Mathematical Education, which looked at theories and issues in mathematical education. My degree did not involve a dissertation; instead we did a group project module.
     </p>
-<?php include('../footer.php'); ?>
+<?php include('footer.php'); ?>
