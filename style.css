@@ -10,7 +10,7 @@ p {
 b{
     font-weight:900;
     font-size: 100%;
-    color: #f587e8;
+    color: #7d5178;
 }
 
 div.container {
@@ -64,6 +64,13 @@ h2 {
     font-size: 80%;
     margin: 0;
     padding: 0;
+}
+
+h3 {
+    font-size: 200%;
+    font-family: 'Courgette', Verdana, serif;
+    margin: 20px;
+    padding-top: 10px;
 }
 
 a {
