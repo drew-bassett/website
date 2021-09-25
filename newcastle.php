@@ -12,8 +12,8 @@
     <p>
         In my third year, I specialised in applied mathematics. I also studied a module called Mathematical Education, which looked at theories and issues in mathematical education. My degree did not involve a dissertation; instead we did a group project module.
     </p>
-<div><div>
-<b>First Year Modules</b><br>
+<div style="display:flex; width:80%;"><div>
+<b>First Year Modules</b>
 <ul>
 <li>Mathematical Methods A</li>
 <li>Mathematical Methods B</li>
@@ -30,7 +30,7 @@
 </ul>
 </div>
 <div>
-<b>Second Year Modules</b><br>
+<b>Second Year Modules</b>
 <ul>
 <li>Complex Variable</li>
 <li>Introduction to Vector Calculus</li>
@@ -47,7 +47,7 @@
 </ul>
 </div>
 <div>
-<b>Third Year Modules</b><br>
+<b>Third Year Modules</b>
 <ul>
 <li>Group Project</li>
 <li>Partial Differential Equations with Applications</li>
