@@ -12,13 +12,54 @@
     <p>
         In my third year, I specialised in applied mathematics. I also studied a module called Mathematical Education, which looked at theories and issues in mathematical education. My degree did not involve a dissertation; instead we did a group project module.
     </p>
-<p><b>First Year Modules</b><br>
-    Mathematical Methods A, Mathematical Methods B, Optimisation and Linear Methods, Analytic Geometry and the Foundations of Differential Equations, Modelling with Differential Equations, Problem-solving Techniques, Number Systems, The Foundations of Analysis, Application of Mathematical Methods to Finance, Introduction to Probability, Introduction to Statistics, Computational Probability and Statistics with R
-</p>
-<p><b>Second Year Modules</b><br>
-Complex Variable, Introduction to Vector Calculus, Methods for Solving Differential Equations, Chaos: Theoretical and Numerical Methods, Algebra, Enumeration and Combinatorics, Linear Algebra, The Foundations of Calculus, Introduction to Statistical Inference, Foundations of Probability, Introduction to Regression and Modelling, Introduction to Bayesian Statistics
-</p>
-<p><b>Third Year Modules</b><br>
-Group Product, Partial Differential Equations with Applications, Introductory Fluids and the Theory of Flight, Quantum Mechanics, Instabilities and Turbulence, Differential Equations Transform Methods and Fields, Electromagnetism, Variational Methods, Introduction to Numerical and Computational Modelling, Randomised Clinical Trials, Mathematical Education
-</p>
+<div><div>
+<b>First Year Modules</b><br>
+<ul>
+<li>Mathematical Methods A</li>
+<li>Mathematical Methods B</li>
+<li>Optimisation and Linear Methods</li>
+<li>Analytic Geometry and the Foundations of Differential Equations</li>
+<li>Modelling with Differential Equations</li>
+<li>Problem-solving Techniques</li>
+<li>Number Systems</li>
+<li>The Foundations of Analysis</li>
+<li>Application of Mathematical Methods to Finance</li>
+<li>Introduction to Probability</li>
+<li>Introduction to Statistics</li>
+<li>Computational Probability and Statistics with R</li>
+</ul>
+</div>
+<div>
+<b>Second Year Modules</b><br>
+<ul>
+<li>Complex Variable</li>
+<li>Introduction to Vector Calculus</li>
+<li>Methods for Solving Differential Equations</li>
+<li>Chaos: Theoretical and Numerical Methods</li>
+<li>Algebra</li>
+<li>Enumeration and Combinatorics</li>
+<li>Linear Algebra</li>
+<li>The Foundations of Calculus</li>
+<li>Introduction to Statistical Inference</li>
+<li>Foundations of Probability</li>
+<li>Introduction to Regression and Modelling</li>
+<li>Introduction to Bayesian Statistics</li>
+</ul>
+</div>
+<div>
+<b>Third Year Modules</b><br>
+<ul>
+<li>Group Project</li>
+<li>Partial Differential Equations with Applications</li>
+<li>Introductory Fluids and the Theory of Flight</li>
+<li>Quantum Mechanics</li>
+<li>Instabilities and Turbulence</li>
+<li>Differential Equations Transform Methods and Fields</li>
+<li>Electromagnetism</li>
+<li>Variational Methods</li>
+<li>Introduction to Numerical and Computational Modelling</li>
+<li>Randomised Clinical Trials</li>
+<li>Mathematical Education</li>
+</ul>
+</div></div>
 <?php include('footer.php'); ?>
