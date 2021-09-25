@@ -12,7 +12,7 @@
     <p>
         In my third year, I specialised in applied mathematics. I also studied a module called Mathematical Education, which looked at theories and issues in mathematical education. My degree did not involve a dissertation; instead we did a group project module.
     </p>
-<div style="display:flex; width:80%;"><div>
+<div style="display:flex; width:90%;"><div style="width:30%">
 <b>First Year Modules</b>
 <ul>
 <li>Mathematical Methods A</li>
@@ -29,7 +29,7 @@
 <li>Computational Probability and Statistics with R</li>
 </ul>
 </div>
-<div>
+<div style="width:30%">
 <b>Second Year Modules</b>
 <ul>
 <li>Complex Variable</li>
@@ -46,7 +46,7 @@
 <li>Introduction to Bayesian Statistics</li>
 </ul>
 </div>
-<div>
+<div style="width:30%">
 <b>Third Year Modules</b>
 <ul>
 <li>Group Project</li>
