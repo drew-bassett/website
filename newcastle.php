@@ -12,9 +12,9 @@
     <p>
         In my third year, I specialised in applied mathematics. I also studied a module called Mathematical Education, which looked at theories and issues in mathematical education. My degree did not involve a dissertation; instead we did a group project module.
     </p>
-<div style="display:flex; width:90%;"><div style="width:30%">
+<center><div style="display:flex; width:90%;"><div style="width:30%">
 <b>First Year Modules</b>
-<ul>
+<ul style="font-size: 75%;">
 <li>Mathematical Methods A</li>
 <li>Mathematical Methods B</li>
 <li>Optimisation and Linear Methods</li>
@@ -31,7 +31,7 @@
 </div>
 <div style="width:30%">
 <b>Second Year Modules</b>
-<ul>
+<ul style="font-size: 75%;">
 <li>Complex Variable</li>
 <li>Introduction to Vector Calculus</li>
 <li>Methods for Solving Differential Equations</li>
@@ -48,7 +48,7 @@
 </div>
 <div style="width:30%">
 <b>Third Year Modules</b>
-<ul>
+<ul style="font-size: 75%;">
 <li>Group Project</li>
 <li>Partial Differential Equations with Applications</li>
 <li>Introductory Fluids and the Theory of Flight</li>
@@ -62,4 +62,5 @@
 <li>Mathematical Education</li>
 </ul>
 </div></div>
+</center>
 <?php include('footer.php'); ?>
