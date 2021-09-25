@@ -12,7 +12,7 @@
     <p>
         In my third year, I specialised in applied mathematics. I also studied a module called Mathematical Education, which looked at theories and issues in mathematical education. My degree did not involve a dissertation; instead we did a group project module.
     </p>
-<center><div style="display:flex; width:90%;"><div style="width:30%">
+<center><div style="display:flex; width:90%; text-align: left;"><div style="width:30%">
 <b>First Year Modules</b>
 <ul style="font-size: 75%;">
 <li>Mathematical Methods A</li>
