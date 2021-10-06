@@ -12,7 +12,8 @@
     <h2>💻 Employment</h2>
     <div class="text">
         <p>
-            <b>▸</b> System Support Executive since December 2020 at Redu Group<br/>
+            <b>▸</b> System Support Executive since October 2021 at Redu Group<br/>
+            <b>▸</b> System Support Executive for 11 months at Redu Group<br/>
             <b>▸</b> Sales Order Processor for 10 Years 3 Months at Redu Group
         </p>
     </div>
