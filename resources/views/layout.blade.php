@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <link href='https://fonts.googleapis.com/css?family=Courgette' rel='stylesheet'>
-    <link rel="stylesheet" type="text/css" href="{{ url('/app.css') }}">
+    <link rel="stylesheet" type="text/css" href="app.css">
 <meta charset="UTF-8">
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
