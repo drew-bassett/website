@@ -23,8 +23,6 @@
         <a href="https://www.linkedin.com/in/drew-baxter-3a0a8118a/" target="_blank">LinkedIn</a><br /><br/>
         <a href="https://github.com/missdrewbaxter" target="_blank">GitHub</a><br /><br/>
         <a href="https://www.facebook.com/drew.baxter.5209/" target="_blank">Facebook</a>
-        <p>Built with:<br>
-            Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})</p>
     </div>
 </div>
 </body>
