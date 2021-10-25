@@ -24,6 +24,7 @@ div.container {
     border:0px solid #f587e8;
     text-align: left;
     display: flex;
+    height:100%;
 }
 
 div.text{
