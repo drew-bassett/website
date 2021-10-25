@@ -20,7 +20,7 @@ div.container {
     color: #000000;
     margin-top: 0;
     margin-bottom: 0;
-    padding-bottom: 0;
+    padding-bottom: 20px;
     border:0 solid #f587e8;
     text-align: left;
     display: flex;
