@@ -16,7 +16,9 @@
         <b>▸</b> Sales Order Processor for 10 Years 3 Months at Redu Group
     </p>
     <h2>🏆 Certifications</h2><br/>
-    <div style="border-style none;" data-iframe-width="300" data-iframe-height="200" data-share-badge-id="ce51ce4c-81f4-4fa1-9079-16b4761b663e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
-    <div style="border-style none;"  data-iframe-width="300" data-iframe-height="200" data-share-badge-id="434150f6-a0ec-405b-8edf-38a9fe15dae4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
-    <div style="border-style none;"  data-iframe-width="300" data-iframe-height="200" data-share-badge-id="15a6a67e-f6ed-497a-8f6a-9b2dc799f522" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
+    <a href="https://www.credly.com/badges/99749170-3cdd-4b4c-93bd-7af85fd521d6/public_url" target="_blank"><img src="{{ url('comptia-a-ce-certification') }}" alt="A+"></a>
+    <a href="https://www.credly.com/badges/434150f6-a0ec-405b-8edf-38a9fe15dae4/public_url" target="_blank"><img src="{{ url('comptia-security-ce-certification.png') }}" alt="Security+"></a>
+    <a href="https://www.credly.com/badges/15a6a67e-f6ed-497a-8f6a-9b2dc799f522/public_url" target="_blank"><img src="{{ url('itil-4-foundation-cpd') }}" alt="ITIL 4 Foundation"></a>
+    <a href="https://www.credly.com/badges/48b552ac-2833-4210-8eb3-f0e318729fe4/public_urll" target="_blank"><img src="{{ url('google-it-support-certificate') }}" alt="Google IT Support"></a>
+
 @endsection

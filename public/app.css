@@ -25,7 +25,6 @@ div.container {
     text-align: left;
     display: flex;
     height:100%;
-    font-size: 30px;
 }
 
 div.text{
@@ -40,6 +39,7 @@ div.left {
     margin-bottom: -99999px;
     padding-bottom: 99999px;
     border-right:0 dotted #f587e8;
+    font-size: 150%;
 }
 
 div.right {
@@ -50,7 +50,7 @@ div.right {
     padding-bottom: 99999px;
     text-align: right;
     color: #000000;
-    font-size: 75%;
+    font-size: 150%;
     padding-top: 25px;
     padding-right: 10px;
     font-family: 'Sora', Verdana, serif;
