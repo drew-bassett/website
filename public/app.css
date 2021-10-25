@@ -17,12 +17,12 @@ div.container {
     overflow: hidden;
     margin: auto;
     font-family: 'Sora', Verdana, serif;
-    font-size:80px%;
+    font-size:80%;
     color: #000000;
-    margin-top: 0px;
-    margin-bottom: 0px;
+    margin-top: 0;
+    margin-bottom: 0;
     padding-bottom: 20px;
-    border:0px solid #f587e8;
+    border:0 solid #f587e8;
     text-align: left;
     display: flex;
     height:100%;
@@ -62,7 +62,7 @@ h1 {
     font-family: 'Courgette', Verdana, serif;
     margin: 20px;
     padding-top: 10px;
-    color: #f587e8;
+    color: #e071d3;
 }
 
 h2 {
@@ -88,4 +88,5 @@ a {
 
 a:hover {
     text-decoration: underline;
+    color: #f587e8;
 }

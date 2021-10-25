@@ -18,7 +18,7 @@
         @yield ('content')
     </div>
     <div class="right">
-        <a href="/">Index</a> <br/><br/>
+        <a href="/">Home</a> <br/><br/>
         <a href="/newcastle">Maths at Newcastle</a><br /><br/>
         <a href="/york">CompSci at York</a><br /><br />
         <a href="/coe">Centre of Excellence</a><br /><br/>
