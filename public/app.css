@@ -8,13 +8,18 @@ b{
     color: #7d5178;
 }
 
+p{
+    font-size:125%;
+}
+
 div.container {
     width:80%;
     overflow: hidden;
     margin: auto;
     font-family: 'Sora', Verdana, serif;
     color: #000000;
-    margin-top: 25px;
+    margin-top: 0px;
+    margin-bottom: 0px;
     padding-bottom: 20px;
     border:0px solid #f587e8;
     text-align: left;
