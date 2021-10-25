@@ -1,6 +1,5 @@
 body {
-    background-color: #fffcfc;
-    background-image: linear-gradient(100deg, #fffcfc, #fad8f5);
+    background-color: #fad8f5;
 }
 
 b{
@@ -17,7 +16,7 @@ div.container {
     overflow: hidden;
     margin: auto;
     font-family: 'Sora', Verdana, serif;
-    font-size:80%;
+    font-size:750%;
     color: #000000;
     margin-top: 0;
     margin-bottom: 0;
@@ -36,7 +35,7 @@ div.text{
 div.left {
     float:left;
     width: 85%;
-    background-color: rgba(255, 255, 255, 0.50);
+    background-color: rgba(255, 255, 255, 0.75);
     margin-bottom: -99999px;
     padding-bottom: 99999px;
     border-right:0 dotted #f587e8;
@@ -69,7 +68,7 @@ h2 {
     font-size: 80%;
     margin: 0;
     padding: 0;
-    color: #f587e8;
+    color: #e071d3;
 }
 
 h3 {
@@ -77,7 +76,7 @@ h3 {
     font-family: 'Courgette', Verdana, serif;
     margin: 20px;
     padding-top: 10px;
-    color: #f587e8;
+    color: #e071d3;
 }
 
 a {
@@ -90,3 +89,4 @@ a:hover {
     text-decoration: underline;
     color: #f587e8;
 }
+
