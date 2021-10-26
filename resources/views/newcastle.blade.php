@@ -20,7 +20,7 @@
     </p>
     <div style="text-align: center;"><div style="display:flex; width:90%; text-align: left;"><div style="width:30%">
                 <b>First Year Modules</b>
-                <ul style="font-size: 85%;">
+                <ul style="font-size: 95%;">
                     <li>Mathematical Methods A</li>
                     <li>Mathematical Methods B</li>
                     <li>Optimisation and Linear Methods</li>
@@ -37,7 +37,7 @@
             </div>
             <div style="width:30%">
                 <b>Second Year Modules</b>
-                <ul style="font-size: 85%;">
+                <ul style="font-size: 95%;">
                     <li>Complex Variable</li>
                     <li>Introduction to Vector Calculus</li>
                     <li>Methods for Solving Differential Equations</li>

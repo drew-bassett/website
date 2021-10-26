@@ -16,7 +16,7 @@ div.container {
     overflow: hidden;
     margin: auto;
     font-family: 'Sora', Verdana, serif;
-    font-size:750%;
+    font-size:70%;
     color: #000000;
     margin-top: 0;
     margin-bottom: 0;
@@ -38,6 +38,7 @@ div.left {
     background-color: rgba(255, 255, 255, 0.75);
     margin-bottom: -99999px;
     padding-bottom: 99999px;
+    padding-left: 10px;
     border-right:0 dotted #f587e8;
     font-size: 120%;
 }
@@ -45,7 +46,7 @@ div.left {
 div.right {
     float: right;
     width: 15%;
-    background-color: rgba(255, 255, 255, 0.50);
+    background-color: rgba(255, 255, 255, 0.75);
     margin-bottom: -99999px;
     padding-bottom: 99999px;
     text-align: right;
@@ -59,7 +60,7 @@ div.right {
 h1 {
     font-size: 400%;
     font-family: 'Courgette', Verdana, serif;
-    margin: 20px;
+    margin: 5px;
     padding-top: 10px;
     color: #e071d3;
 }
