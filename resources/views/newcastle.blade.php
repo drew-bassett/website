@@ -2,23 +2,18 @@
 
 @section ('content')
     <h1>Mathematics at Newcastle University</h1>
-    <div style="text-align: center;">
-    <img src="/images/drewbaxter.jpg" alt="Drew at Graduation">
-    </div>
     <p>
+    <img src="/images/drewbaxter.jpg" alt="Drew at Graduation"><br/>
         In 2013 to 2016 I studied BSc Mathematics at Newcastle University, graduating with a First-class Honors degree. I am very proud of my degree as I achieved it whilst commuting 3 hours a day by bus to campus and working part-time at the weekends. I have since passed my driving test and have got a lovely blue Hyundai i10!
     </p>
     <p>
         In my second year, I was lucky enough to earn a research scholarship to work along side a lecturer to study the magnetic fields in neutron stars.</p>
     <p>
-    <div style="text-align: center;">
         <img src="/images/research.jpg" alt="Drew at the 2015 Research Event" height="25%" width="25%">
-    </div>
-    </p>
-    <p>
+   <br/>
         In my third year, I specialised in applied mathematics. I also studied a module called Mathematical Education, which looked at theories and issues in mathematical education. My degree did not involve a dissertation; instead we did a group project module.
     </p>
-    <div style="text-align: center;"><div style="display:flex; width:90%; text-align: left;"><div style="width:30%">
+    <div style="display:flex; margin: 0 auto; width:90%; text-align: left;"><div style="width:30%">
                 <b>First Year Modules</b>
                 <ul style="font-size: 95%;">
                     <li>Mathematical Methods A</li>
@@ -54,7 +49,7 @@
             </div>
             <div style="width:30%">
                 <b>Third Year Modules</b>
-                <ul style="font-size: 85%;">
+                <ul style="font-size: 95%;">
                     <li>Group Project</li>
                     <li>Partial Differential Equations with Applications</li>
                     <li>Introductory Fluids and the Theory of Flight</li>
@@ -67,5 +62,5 @@
                     <li>Randomised Clinical Trials</li>
                     <li>Mathematical Education</li>
                 </ul>
-            </div></div></div>
+            </div></div>
 @endsection

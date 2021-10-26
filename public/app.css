@@ -7,24 +7,19 @@ b{
     color: #7d5178;
 }
 
-p{
-    font-size:125%;
-}
-
 div.container {
-    width:80%;
+    width:90%;
     overflow: hidden;
     margin: auto;
     font-family: 'Sora', Verdana, serif;
-    font-size:70%;
+    font-size:85%;
     color: #000000;
     margin-top: 0;
     margin-bottom: 0;
     padding-bottom: 20px;
-    border:0 solid #f587e8;
     text-align: left;
     display: flex;
-    height:100%;
+    border-radius: 25px;
 }
 
 div.text{
@@ -35,23 +30,21 @@ div.text{
 div.left {
     float:left;
     width: 85%;
-    background-color: rgba(255, 255, 255, 0.75);
+    background-color: rgba(255, 255, 255, 100);
     margin-bottom: -99999px;
     padding-bottom: 99999px;
     padding-left: 10px;
     border-right:0 dotted #f587e8;
-    font-size: 120%;
 }
 
 div.right {
     float: right;
     width: 15%;
-    background-color: rgba(255, 255, 255, 0.75);
+    background-color: rgba(255, 255, 255, 100);
     margin-bottom: -99999px;
     padding-bottom: 99999px;
     text-align: right;
     color: #000000;
-    font-size: 120%;
     padding-top: 25px;
     padding-right: 10px;
     font-family: 'Sora', Verdana, serif;
@@ -66,7 +59,7 @@ h1 {
 }
 
 h2 {
-    font-size: 80%;
+    font-size: 100%;
     margin: 0;
     padding: 0;
     color: #e071d3;
@@ -90,4 +83,3 @@ a:hover {
     text-decoration: underline;
     color: #f587e8;
 }
-
