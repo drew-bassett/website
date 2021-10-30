@@ -18,14 +18,15 @@
         @yield ('content')
     </div>
     <div class="right">
-        <a href="/">Home</a> <br/><br/>
-        <a href="/newcastle">Maths at Newcastle</a><br /><br/>
-        <a href="/york">CompSci at York</a><br /><br />
-        <a href="/coe">Centre of Excellence</a><br /><br/>
-        <a href="https://www.linkedin.com/in/drew-baxter-3a0a8118a/" target="_blank">LinkedIn</a><br /><br/>
-        <a href="https://github.com/missdrewbaxter" target="_blank">GitHub</a><br /><br/>
-        <a href="https://www.facebook.com/drew.baxter.5209/" target="_blank">Facebook</a>
+        <a href="/"><button class="button">Home</button></a> <br/>
+        <a href="/newcastle"><button class="button">Maths at Newcastle</button></a><br />
+        <a href="/york"><button class="button">CompSci at York</button></a><br />
+        <a href="/coe"><button class="button">Centre of Excellence</button></a><br />
+        <a href="https://www.linkedin.com/in/drew-baxter-3a0a8118a/" target="_blank"><button class="button">LinkedIn</button></a><br />
+        <a href="https://github.com/missdrewbaxter" target="_blank"><button class="button">GitHub</button></a><br />
+        <a href="https://www.facebook.com/drew.baxter.5209/" target="_blank"><button class="button">Facebook</button></a>
     </div>
 </div>
+<br/>
 </body>
 </html>
