@@ -27,4 +27,8 @@ Route::get('/york', function () {
 
 Route::get('/coe', function () {
     return view('coe');
+	
+});
+Route::get('/tryhackme', function () {
+    return view('tryhackme');
 });

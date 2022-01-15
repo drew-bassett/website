@@ -8,5 +8,11 @@
 
     <h2>Module 1 - Algorithms and Data Structures</h2><p>
         I made a simple shopping list program in Java; the below GIF demonstrates the program as well as some error handling. The source code is available on my <a href="https://github.com/missdrewbaxter/ShoppingList" target="_blank">GitHub</a>. <br/><br/>
-        <img src="/images/shopping.gif" alt="Drew at Graduation" width="75%" height="75%"></p>
+        <img src="/images/shopping.gif" alt="Shopping List Programme" width="75%" height="75%"></p>
+		
+		<h2>Module 2 - Research Methods</h2><p>
+		The second module developed my academic writing and research skills. I was introduced to a lot of terminology and theory regarding research methods and methodologies.</p>
+		
+		<h2>Module 3 - Cyber Security Threats</h2><p>
+		I am currently studying this module.</p>
 @endsection
