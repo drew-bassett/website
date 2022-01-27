@@ -10,12 +10,6 @@
         <b>▸</b> BSc Mathematics First-class Honours from Newcastle University<br />
         <b>▸</b> A Levels in Mathematics, Further Mathematics, and Physics<br />
     </p>
-    <h2>💻 Employment</h2>
-    <p>
-        <b>▸</b> IT Manager since October 2021 at Redu Group<br/>
-        <b>▸</b> System Support Executive for 11 months at Redu Group<br/>
-        <b>▸</b> Sales Order Processor for 10 Years 3 Months at Redu Group
-    </p>
     <h2>🏆 Certifications</h2><br/>
     <a href="https://www.credly.com/badges/99749170-3cdd-4b4c-93bd-7af85fd521d6/public_url" target="_blank"><img class="cert" src="{{ url('images/comptia-a-ce-certification.png') }}" alt="A+"></a>
     <a href="https://www.credly.com/badges/434150f6-a0ec-405b-8edf-38a9fe15dae4/public_url" target="_blank"><img class="cert"  src="{{ url('images/comptia-security-ce-certification.png') }}" alt="Security+"></a>
