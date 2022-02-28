@@ -32,3 +32,7 @@ Route::get('/coe', function () {
 Route::get('/tryhackme', function () {
     return view('tryhackme');
 });
+
+Route::get('/cpd', function () {
+    return view('cpd');
+});
