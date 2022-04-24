@@ -5,7 +5,7 @@
     <h1>Miss Drew Baxter</h1>
     <img src="{{ url('images/drew.jpg') }}" alt="Drew">
     <p>
-        Hello and welcome to my website! I'm Drew and I an IT professional living in North East England. I am interested particularly in cyber security and I am really proud that during my time at Redu Group I was able to work alongside an external consultant to achieve an ISO 27001 certification and a Cyber Esentials Plus certification for the business.
+        Hello and welcome to my website! I'm Drew and I am an IT professional living in North East England. I am interested particularly in cyber security and I am really proud that during my time at Redu Group I was able to work alongside an external consultant to achieve an ISO 27001 certification and a Cyber Esentials Plus certification for the business.
     </p>
     <h2>🎓 Education</h2>
     <p>
