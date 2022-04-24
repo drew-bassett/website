@@ -17,5 +17,8 @@
 		After an introduction to common cyber security threats, with a focus on web and network security, I produced a risk analysis and treatment plan for a theoretical organisation.</p>
 		
 		<h2>Module 4 - Advanced Programming</h2><p>
-		Coming soon... (using python)</p>
+		Expanding on what I learned in module 1, I was introduced to Python and a few advanced programming concepts. My assignment was to create an application (with a GUI), that would parse user-uploaded CSV files, clean and perform data analysis on them, resulting in some summary statistics and graphs for the user.</p>
+		
+		<h2>Module 5 - Artificial Intelligence and Machine Learning</h2><p>
+		Coming soon...</p>
 @endsection
