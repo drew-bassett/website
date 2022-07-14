@@ -36,3 +36,7 @@ Route::get('/tryhackme', function () {
 Route::get('/cpd', function () {
     return view('cpd');
 });
+
+Route::get('/roxy', function () {
+    return view('roxy');
+});
