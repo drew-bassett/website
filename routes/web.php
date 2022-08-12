@@ -40,3 +40,7 @@ Route::get('/cpd', function () {
 Route::get('/roxy', function () {
     return view('roxy');
 });
+
+Route::get('/notes', function () {
+    return view('notes');
+});
