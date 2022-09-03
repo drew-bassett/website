@@ -37,8 +37,8 @@ Route::get('/cpd', function () {
     return view('cpd');
 });
 
-Route::get('/roxy', function () {
-    return view('roxy');
+Route::get('/roxyandluna', function () {
+    return view('roxyandluna');
 });
 
 Route::get('/notes', function () {
