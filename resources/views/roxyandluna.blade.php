@@ -15,7 +15,7 @@ echo $age;
     @php
     //Date format Y-m-d
 $dateOfBirth = '2022-07-02';
-
+.
 $age = \Carbon\Carbon::parse($dateOfBirth)->diff(\Carbon\Carbon::now())->format('%y years, %m months and %d days');
 echo $age;
 @endphp
