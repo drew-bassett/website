@@ -19,7 +19,7 @@
         <a href="/cpd"><button class="button">CPD</button></a><br />
         <a href="/coe"><button class="button">Centre of Excellence</button></a><br />
         <a href="/roxyandluna"><button class="button">Roxy & Luna</button></a><br />
-        <a href="https://www.linkedin.com/in/drew-baxter-3a0a8118a/" target="_blank"><button class="button">LinkedIn</button></a><br />
+        <a href="https://www.linkedin.com/in/drew-b-3a0a8118a/" target="_blank"><button class="button">LinkedIn</button></a><br />
         <a href="https://github.com/missdrewbaxter" target="_blank"><button class="button">GitHub</button></a><br />
     </div>
 </div>
