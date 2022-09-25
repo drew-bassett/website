@@ -21,7 +21,6 @@
         <a href="/roxyandluna"><button class="button">Roxy & Luna</button></a><br />
         <a href="https://www.linkedin.com/in/drew-baxter-3a0a8118a/" target="_blank"><button class="button">LinkedIn</button></a><br />
         <a href="https://github.com/missdrewbaxter" target="_blank"><button class="button">GitHub</button></a><br />
-        <a href="https://www.facebook.com/drew.baxter.5209/" target="_blank"><button class="button">Facebook</button></a>
     </div>
 </div>
 <br/>
