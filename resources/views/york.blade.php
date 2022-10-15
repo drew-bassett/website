@@ -23,5 +23,8 @@
 	This covered various search algorithms, propositional logic, machine learning and clustering using k-means, and an introduction to neural networks. The assessment for this module was an exam.</p>
 		
 	<h2>Module 6 - Software Engineering</h2><p>
+	Looked at the software development process and methodologies such as Agile and Waterfall, but the majority of the module was about UML Diagrams (use case, class sequence, and package) with a bit of OCL.</p>
+	
+	<h2>Module 7 - Secure Engineering</h2><p>
 	Coming soon...</p>
 @endsection
