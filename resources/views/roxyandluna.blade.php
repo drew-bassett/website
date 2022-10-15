@@ -20,5 +20,5 @@ echo $age;
 @endphp
 .
 </p>
-    <img src="/images/roxy_and_luna.jpg" alt="Roxy and Luna" width="50%" height="50%"><br/>
+    <img src="/images/roxy_and_luna.jpg" alt="Roxy and Luna" width="75%" height="75%"><br/>
 @endsection
