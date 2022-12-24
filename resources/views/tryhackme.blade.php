@@ -7,6 +7,6 @@
        <center><script src="https://tryhackme.com/badge/785231"></script></center>
     </p>
 	<img src="images/THM-December2021.png" alt="Christmas 2021" height="331" width="546"><br/>
-	<img src="images/THM-December2021.png" alt="Christmas 2022" height="331" width="546">
+	<img src="images/THM-December2022.png" alt="Christmas 2022" height="331" width="546">
 	
 @endsection
