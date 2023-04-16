@@ -23,8 +23,17 @@
 	This covered various search algorithms, propositional logic, machine learning and clustering using k-means, and an introduction to neural networks. The assessment for this module was an exam.</p>
 		
 	<h2>Module 6 - Software Engineering</h2><p>
-	Looked at the software development process and methodologies such as Agile and Waterfall, but the majority of the module was about UML Diagrams (use case, class sequence, and package) with a bit of OCL.</p>
+	I looked at the software development process and methodologies such as Agile and Waterfall, but the majority of the module was about UML Diagrams (use case, class sequence, and package) with a bit of OCL. Again, this was an exam.</p>
 	
 	<h2>Module 7 - Secure Engineering</h2><p>
-	Coming soon...</p>
+	For this one I had to design a secure system that would allow teaching programming to remote students. I based it on my experience with VSphere and having a server running remote desktop services to allow students to have their own learning environment. Operating System security and third-party software security were also considered in my design.</p>
+	
+	<h2>Module 8 - Computer Architecture and Operating Systems</h2><p>
+	Assessed by an exam, this module introduced me basically to how a computer actually works. This included processors, memory, non-volatile storage and file systems, and operating systems. </p>
+	
+	<h2>Module 9 - Computer and Mobile Networks</h2><p>
+	Here I acted as a network engineer/architect and constructed a network design for a SMB and also commented on the scalability of it and security aspects of the wireless network.</p>
+	
+	<h2>Module 10 - Research Project Proposal</h2><p>
+	Coming to the end of my journey, I am currently working on a research proposal for my final project. This will be focused on an aspect of Cyber Security.</p>
 @endsection
