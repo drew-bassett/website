@@ -17,6 +17,6 @@
     <a href="https://www.credly.com/badges/99749170-3cdd-4b4c-93bd-7af85fd521d6/public_url" target="_blank"><img class="cert" src="{{ url('images/comptia-a-ce-certification.png') }}" alt="A+"></a>
     <a href="https://www.credly.com/badges/434150f6-a0ec-405b-8edf-38a9fe15dae4/public_url" target="_blank"><img class="cert"  src="{{ url('images/comptia-security-ce-certification.png') }}" alt="Security+"></a>
     <a href="https://www.credly.com/badges/48b552ac-2833-4210-8eb3-f0e318729fe4/public_url" target="_blank"><img class="cert"  src="{{ url('images/google-it-support-certificate.png') }}" alt="Google IT Support"></a>
-    <a href=https://www.credly.com/badges/3c906ae1-96a3-4242-8f41-140e33ca6ba0" target="_blank"><img class="cert"  src="{{ url('images/itil-4-foundation-cpd.png') }}" alt="ITIL 4 Foundation"></a>
+    <a href=https://www.credly.com/badges/3c906ae1-96a3-4242-8f41-140e33ca6ba0" target="_blank"><img class="cert"  src="{{ url('images/itil-4-foundation-cpd.png') }}" alt="ITIL 4 Foundation"></a><img class="cert"  src="{{ url('images/mimecast_warrior.png') }}" alt="ITIL 4 Foundation">
     </div>
 @endsection
