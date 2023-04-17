@@ -4,6 +4,7 @@ from django.conf.urls import include
 from django.conf.urls.static import static
 from django.contrib.staticfiles.storage import staticfiles_storage
 from .views import NewcastleView, YorkView, TryHackMeView, CPDView, COEView, RoxyAndLunaView
+from django.views.generic.base import TemplateView, RedirectView
 
 urlpatterns = [
 	path('', views.index, name='index'),
