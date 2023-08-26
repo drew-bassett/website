@@ -1,0 +1,4 @@
+workon miss_baxter
+cd miss_baxter
+python manage.py runserver
+pip freeze > requirements.txt
