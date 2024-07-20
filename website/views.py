@@ -14,8 +14,8 @@ class NewcastleView(TemplateView):
 class YorkView(TemplateView):
 	template_name = 'york.html'
 	
-class TryHackMeView(TemplateView):
-	template_name = 'tryhackme.html'
+class SwanseaView(TemplateView):
+	template_name = 'swansea.html'
 	
 class CPDView(TemplateView):
 	template_name = 'cpd.html'
