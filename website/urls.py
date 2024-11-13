@@ -8,11 +8,10 @@ from django.views.generic.base import TemplateView, RedirectView
 
 urlpatterns = [
 	path('', views.index, name='index'),
-	path('newcastle/', NewcastleView.as_view(), name='newcastle'),
-	path('york/', YorkView.as_view(), name='york'),
-	path('swansea/', SwanseaView.as_view(), name='swansea'),
+	path('undergrad/', UndergradView.as_view(), name='undergrad'),
+	path('postgrad/', PostgradView.as_view(), name='postgrad'),
+	path('talks/', TalksView.as_view(), name='talks'),
 	path('cpd/', CPDView.as_view(), name='cpd'),
-	path('coe/', COEView.as_view(), name='coe'),
 	path('roxyandluna/', roxy_and_luna, name='roxyandluna'),
 	path(
         "robots.txt",

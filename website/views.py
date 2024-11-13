@@ -8,21 +8,17 @@ from .utils.age_calculator import calculate_age
 def index(request):
 	return render(request, 'index.html', context=None)
 	
-class NewcastleView(TemplateView):
-	template_name = 'newcastle.html'
+class UndergradView(TemplateView):
+	template_name = 'undergrad.html'
 	
-class YorkView(TemplateView):
-	template_name = 'york.html'
+class PostgradView(TemplateView):
+	template_name = 'postgrad.html'
 	
-class SwanseaView(TemplateView):
-	template_name = 'swansea.html'
+class TalksView(TemplateView):
+	template_name = 'talks.html'
 	
 class CPDView(TemplateView):
 	template_name = 'cpd.html'
-	
-class COEView(TemplateView):
-	template_name = 'coe.html'
-
 
 def roxy_and_luna(request):
     roxy_birthday = datetime(2022, 3, 18)
