@@ -62,7 +62,7 @@ h1 {
 }
 
 h2 {
-    font-size: 100%;
+    font-size: 200%;
     margin: 0;
     padding: 0;
     color: #e071d3;
@@ -83,7 +83,7 @@ h3 {
     border-radius: 12px;
     padding: 5px;
     margin-bottom: 5px;
-    width: 80%;
+    width: 90%;
     text-align: right;	
 	cursor: pointer;	
 	overflow: hidden;
