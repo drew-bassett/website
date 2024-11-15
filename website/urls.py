@@ -3,7 +3,7 @@ from . import views
 from django.conf.urls import include
 from django.conf.urls.static import static
 from django.contrib.staticfiles.storage import staticfiles_storage
-from .views import NewcastleView, YorkView, SwanseaView, CPDView, COEView, roxy_and_luna
+from .views import UndergradView, PostgradView, TalksView, CPDView, roxy_and_luna
 from django.views.generic.base import TemplateView, RedirectView
 
 urlpatterns = [
