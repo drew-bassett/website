@@ -14,8 +14,8 @@ class UndergradView(TemplateView):
 class PostgradView(TemplateView):
 	template_name = 'postgrad.html'
 	
-class TalksView(TemplateView):
-	template_name = 'talks.html'
+class PapersandTalksView(TemplateView):
+	template_name = 'papersandtalks.html'
 	
 class CPDView(TemplateView):
 	template_name = 'cpd.html'
