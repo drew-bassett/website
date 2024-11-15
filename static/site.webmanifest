@@ -1,0 +1,10 @@
+{
+  "name": "Drew Bassett",
+  "short_name": "Drew's Site",
+  "description": "The personal website of Drew Bassett showcasing education, papers, talks, and more.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#e071d3",
+ 
+}
