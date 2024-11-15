@@ -76,24 +76,26 @@ h3 {
     color: #e071d3;
 }
 
-.button{
+.button {
     border: 1px solid #fad8f5;
     font-family: 'Sora', Verdana, serif;
     background-color: #fad8f5;
     border-radius: 12px;
-    padding: 5px;
+    padding: 10px 20px; /* Increased padding */
     margin-bottom: 5px;
-    width: 90%;
-    text-align: right;	
-	cursor: pointer;	
-	overflow: hidden;
+    text-align: center; /* Center-align text */
+    cursor: pointer;
+    overflow: hidden;
+    min-width: 120px; /* Ensures a minimum width */
+    white-space: nowrap; /* Prevents text from wrapping to the next line */
 }
 
-.button:hover{
+.button:hover {
     background-color: #e071d3;
-    font-weight:900;
+    font-weight: 900;
     color: #ffffff;
- }
+}
+
 
 img{
     display: block;
@@ -133,4 +135,37 @@ a:hover {
     font-weight: normal;
     font-style: normal;
     font-display: swap;
+}
+
+@media (max-width: 768px) {
+    body {
+        font-size: 90%; 
+    }
+
+    div.container {
+        width: 100%; 
+        flex-direction: column; 
+        padding: 10px;
+    }
+
+    div.left, div.right {
+        width: 100%; 
+        float: none;
+        margin-bottom: 10px; 
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 200%; 
+    }
+
+    .button {
+        width: auto; 
+        padding: 12px; 
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
 }
