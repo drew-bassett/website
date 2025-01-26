@@ -128,7 +128,7 @@ h3 {
 
 .hero-title {
     font-size: 1.8rem;
-    color: #e071d3;
+    color: #EC48A9;
     margin-bottom: 10px;
     font-family: 'Courgette', cursive;
 }
@@ -175,4 +175,22 @@ h3 {
     flex-wrap: wrap;
     gap: 10px;
     justify-content: center;
+}
+
+
+@font-face {
+    font-family: 'Sora';
+    src: url('../fonts/Sora-Regular.woff2') format('woff2'),
+        url('../fonts/Sora-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Courgette';
+    src: url('../fonts/Courgette-Regular.woff2') format('woff2'),
+        url('../fonts/Courgette-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
