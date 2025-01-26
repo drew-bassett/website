@@ -7,6 +7,17 @@ body {
     color: #333333;
 }
 
+a {
+    color: #4B5563;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover,
+a:visited {
+    color: #4B5563;
+}
+
 /* Header styles */
 .header {
     background-color: white;
@@ -137,8 +148,8 @@ h3 {
 }
 
 .card {
-    background: white;
-    padding: 20px;
+    background: #f9f9f9;
+    padding: 15px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     width: 300px;
@@ -155,6 +166,7 @@ h3 {
 .card p {
     font-size: 0.9rem;
     color: #333;
+    flex-grow: 1;
 }
 
 /* Certifications Section */
