@@ -65,7 +65,7 @@ h1 {
     font-family: 'Courgette', Verdana, serif;
     margin: 5px;
     padding-top: 10px;
-    color: #e071d3;
+    color: #374151;
     text-align: center;
 }
 
@@ -73,7 +73,7 @@ h2 {
     font-size: 100%;
     margin: 0;
     padding: 0;
-    color: #e071d3;
+    color: #374151;
 }
 
 h3 {
@@ -81,7 +81,7 @@ h3 {
     font-family: 'Courgette', Verdana, serif;
     margin: 20px;
     padding-top: 10px;
-    color: #e071d3;
+    color: #374151;
 }
 
 /* Hero Section */
