@@ -11,6 +11,7 @@ a {
     color: #4B5563;
     text-decoration: none;
     transition: color 0.3s ease;
+    font-weight: bold;
 }
 
 a:hover,
@@ -98,7 +99,7 @@ h3 {
 
 /* Hero Section */
 .hero {
-    background-color: #fad8f5;
+    background: linear-gradient(135deg, #fad8f5 0%, #f7a8d3 100%);
     padding: 20px;
     display: flex;
     align-items: center;
