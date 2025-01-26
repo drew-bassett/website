@@ -3,13 +3,11 @@ from . import views
 from django.conf.urls import include
 from django.conf.urls.static import static
 from django.contrib.staticfiles.storage import staticfiles_storage
-from .views import UndergradView, PostgradView, PapersandTalksView, CPDView, roxy_and_luna
+from .views import PapersandTalksView, CPDView, roxy_and_luna
 from django.views.generic.base import TemplateView, RedirectView
 
 urlpatterns = [
 	path('', views.index, name='index'),
-	path('undergrad/', UndergradView.as_view(), name='undergrad'),
-	path('postgrad/', PostgradView.as_view(), name='postgrad'),
 	path('papersandtalks/', PapersandTalksView.as_view(), name='papersandtalks'),
 	path('cpd/', CPDView.as_view(), name='cpd'),
 	path('roxyandluna/', roxy_and_luna, name='roxyandluna'),

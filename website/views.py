@@ -7,13 +7,7 @@ from .utils.age_calculator import calculate_age
 
 def index(request):
 	return render(request, 'index.html', context=None)
-	
-class UndergradView(TemplateView):
-	template_name = 'undergrad.html'
-	
-class PostgradView(TemplateView):
-	template_name = 'postgrad.html'
-	
+
 class PapersandTalksView(TemplateView):
 	template_name = 'papersandtalks.html'
 	
