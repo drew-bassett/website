@@ -9,40 +9,39 @@ body {
 
 /* Header styles */
 .header {
-    background-color: white; /* White background for the header */
+    background-color: white;
     display: flex;
-    justify-content: space-between; /* Space between name and links */
+    justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .header-left {
-    flex: 1; /* Pushes the navigation links to the right */
+    flex: 1;
 }
 
 .site-title {
     font-size: 1.5rem;
-    color: #e071d3; /* Pink color for the name */
+    color: #e071d3;
     margin: 0;
     font-family: 'Sona', Verdana;
 }
 
 .nav-links {
     display: flex;
-    gap: 20px; /* Adds spacing between links */
-}
+    gap: 20px;
 
 .nav-links a {
-    color: #e071d3; /* Same pink color for links */
+    color: #4B5563;
     text-decoration: none;
     font-size: 1rem;
     font-weight: bold;
-    transition: color 0.3s ease; /* Smooth hover effect */
+    transition: color 0.3s ease;
 }
 
 .nav-links a:hover {
-    color: #fad8f5; /* Light pink hover effect */
+    color: #fad8f5;
 }
 
 /* Content container */
@@ -138,7 +137,7 @@ h3 {
 
 .card {
     background: white;
-    padding: 20px;
+    padding: 10px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     width: 300px;
@@ -148,7 +147,7 @@ h3 {
 
 .card h3 {
     font-size: 1.2rem;
-    color: #e071d3;
+    color: #EC48A9;
     margin-bottom: 10px;
 }
 
