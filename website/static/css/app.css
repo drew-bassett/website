@@ -8,7 +8,7 @@ body {
 }
 
 a {
-    color: #4B5563;
+    color: #7B3F9A;
     text-decoration: none;
     transition: color 0.3s ease;
     font-weight: bold;
@@ -58,11 +58,20 @@ a:visited {
     color: #fad8f5;
 }
 
-/* Content container */
 .container {
-    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center content */
     max-width: 1200px;
-    margin: 0 auto;
+    padding: 20px;
+    margin: auto;
+}
+.content-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    width: 100%;
 }
 
 .left {
@@ -177,6 +186,10 @@ h3 {
     flex-wrap: wrap;
     gap: 10px;
     justify-content: center;
+}
+
+.certifications a{
+    display: inline;
 }
 
 
