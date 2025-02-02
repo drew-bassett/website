@@ -188,9 +188,14 @@ h3 {
     justify-content: center;
 }
 
-.certifications a{
-    display: inline;
+.certifications a {
+    display: inline-block;
+    margin: 5px;
+    text-decoration: none;
+    color: #7B3F9A;
+    font-weight: bold;
 }
+
 
 
 @font-face {
