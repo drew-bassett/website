@@ -8,7 +8,7 @@ body {
 }
 
 a {
-    color: #7B3F9A;
+    color: #D12F85;
     text-decoration: none;
     transition: color 0.3s ease;
     font-weight: bold;
@@ -16,7 +16,7 @@ a {
 
 a:hover,
 a:visited {
-    color: #4B5563;
+    color: #D12F85;
     font-weight: bold;
 }
 
@@ -192,10 +192,9 @@ h3 {
     display: inline-block;
     margin: 5px;
     text-decoration: none;
-    color: #7B3F9A;
+    color: #D12F85;
     font-weight: bold;
 }
-
 
 
 @font-face {
