@@ -182,7 +182,7 @@ h3 {
 
 /* Certifications Section */
 .certifications {
-    display: inline-flex;
+    display: flex;
     flex-wrap: wrap;
     gap: 10px;
     justify-content: center;
@@ -190,12 +190,17 @@ h3 {
 }
 
 .certifications a {
-    display: inline-block;
-    justify-content: center;
+    display: block;
     align-items: center;
     text-decoration: none;
     color: #D12F85;
     font-weight: bold;
+}
+
+.certifications img {
+    height: 138px; /* Set a fixed height */
+    width: 138px; /* Set a fixed width */
+    object-fit: contain; /* Ensure images scale properly */
 }
 
 @font-face {
