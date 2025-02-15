@@ -33,9 +33,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.scratch_4.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "S:/Website/website/website/static/images"
+    "last_opened_file_path": "S:/Website/website/static/images"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
@@ -45,9 +46,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="S:\Website\website\static\images" />
       <recent name="S:\Website\website\website\static\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="S:\Website\website\website\static\images" />
       <recent name="S:\Website\website\static\images" />
     </key>
   </component>
